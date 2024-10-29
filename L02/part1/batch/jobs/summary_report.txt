@@ -1,0 +1,5 @@
+Summary Report
+Total jobs processed: 3
+Successful compilations: 2
+Failed compilations: 1
+Total runtime of all jobs: 3.43 seconds
